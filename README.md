@@ -12,6 +12,7 @@ Umuarama, 2026
 | Thiago José da Silva Braz | 250300 |
 | Henrique Curioni Esteves | 240016 |
 | Gabriel Priori de Morais | 250313 |
+| Giovanni Bernandi Rodrigues | 250394 |
 
 📄 Trello: [`Trello`](https://trello.com/invite/b/6aa08b271beb4e0c3d310dd5/ATTIaa016d3ad0b4ce422af19fb792c433f405DBB446/kanban)
 
