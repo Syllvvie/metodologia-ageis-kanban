@@ -138,6 +138,4 @@ A partir do gargalo identificado na simulação, a equipe formulou e testou uma 
 ```
 .
 ├── README.md                          # este arquivo — trabalho completo
-└── docs/
-    └── TRABALHO-GRUPO-04-T3.docx      # versão Word do trabalho, com formatação de entrega
 ```
