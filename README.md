@@ -36,8 +36,6 @@ Umuarama, 2026
 
 **Serviço observado:** o fluxo de trabalho do time de desenvolvimento web responsável por evoluir a plataforma. As demandas chegam ao time de três formas: novas funcionalidades priorizadas no Product Backlog (B1-T2), defeitos (bugs) reportados em produção e melhorias técnicas identificadas pelo próprio time.
 
-**Situação atual:** parte dos itens depende de terceiros para avançar (por exemplo, integração com a API de frete dos Correios/transportadoras) e outros aguardam aprovação de áreas internas (como infraestrutura), o que gera bloqueios temporários que precisam ficar visíveis no fluxo de trabalho.
-
 ---
 
 ## 2. Quadro Kanban
