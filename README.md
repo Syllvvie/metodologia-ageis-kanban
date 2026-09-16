@@ -12,7 +12,7 @@ Umuarama, 2026
 | Thiago José da Silva Braz | 250300 |
 | Henrique Curioni Esteves | 240016 |
 | Gabriel Priori de Morais | 250313 |
-| Giovanni Bernandi Rodrigues | 250394 |
+| Giovanni Bernardi Rodrigues | 250394 |
 
 📄 Trello: [`Trello`](https://trello.com/invite/b/6aa08b271beb4e0c3d310dd5/ATTIaa016d3ad0b4ce422af19fb792c433f405DBB446/kanban)
 
@@ -86,7 +86,7 @@ Tipos de trabalho: 🟢 **Feature** (nova funcionalidade) · 🟠 **Bug** (defei
 
 **Colunas do fluxo** — foram desenhadas para refletir o processo real de um time de desenvolvimento web, incluindo as etapas de revisão de código e testes, que normalmente ficam invisíveis quando o fluxo é resumido apenas a "a fazer / fazendo / feito". Tornar essas etapas explícitas ajuda o time a enxergar onde o trabalho realmente se acumula.
 
-**Limites de WIP** — definidos considerando uma equipe de cinco integrantes: WIP mais alto em Desenvolvimento (4), por ser a etapa que concentra a maior parte do esforço da equipe, e limites menores nas etapas de Revisão e Deploy, que dependem de disponibilidade pontual de revisores e de janelas de publicação.
+**Limites de WIP** — definidos considerando uma equipe de seis integrantes: WIP mais alto em Desenvolvimento (4), por ser a etapa que concentra a maior parte do esforço da equipe, e limites menores nas etapas de Revisão e Deploy, que dependem de disponibilidade pontual de revisores e de janelas de publicação.
 
 **Bloqueios e dependências** — manter os itens bloqueados visíveis dentro da própria coluna (em vez de escondê-los ou removê-los do quadro) segue o princípio de que o quadro deve representar a realidade do processo, incluindo os pontos de espera. Isso evita a falsa sensação de progresso e prioriza o desbloqueio antes de novas demandas.
 
